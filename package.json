@@ -1,0 +1,10 @@
+{
+  "name": "iso8601",
+  "version": "1.0.0",
+  "repository": "https://github.com/moonshystudios/iso8601",
+  "author": "com.moonshystudios.notrealandy/iso8601",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
